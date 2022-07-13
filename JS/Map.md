@@ -63,7 +63,6 @@ console.log(results); // => ["key1:value1","key2:value2"]
 ```
 
 ### for...of が使える
-entriesめっそど
 ```javascript
 	const map = new Map()
 	map.set("key1", "dog")
